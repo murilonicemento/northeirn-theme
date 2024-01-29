@@ -1,7 +1,7 @@
 {
-  "name": "aurora-breeze",
-  "displayName": "Aurora Breeze",
-  "description": "Aurora is a soft theme for Visual Studio Code",
+  "name": "northeirn",
+  "displayName": "Northeirn",
+  "description": "Northeirn is a soft theme for Visual Studio Code",
   "publisher": "murilonicemento",
   "repository": {
     "type": "git",
@@ -17,9 +17,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "aurora",
+        "label": "northeirn",
         "uiTheme": "vs-dark",
-        "path": "./themes/aurora-color-theme.json"
+        "path": "./themes/northeirn-color-theme.json"
       }
     ]
   }
