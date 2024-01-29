@@ -1,0 +1,21 @@
+{
+  "name": "aurora",
+  "displayName": "Aurora",
+  "description": "Aurora is a soft theme for Visual Studio Code",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "aurora",
+        "uiTheme": "vs-dark",
+        "path": "./themes/aurora-color-theme.json"
+      }
+    ]
+  }
+}
