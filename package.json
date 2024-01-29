@@ -1,7 +1,12 @@
 {
-  "name": "aurora",
-  "displayName": "Aurora",
+  "name": "aurora-breeze",
+  "displayName": "Aurora Breeze",
   "description": "Aurora is a soft theme for Visual Studio Code",
+  "publisher": "murilonicemento",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/murilonicemento/aurora-theme.git"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.85.0"
