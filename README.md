@@ -7,7 +7,7 @@
 
 Northeirn is a soft theme for Visual Studio Code.
 
-![preview-dark](./img/aurora-breeze.png)
+![preview-dark](./img/northeirn-preview.png)
 
 </div>
 
