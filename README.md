@@ -1,16 +1,20 @@
-# aurora README
+<div align="center">
 
-## Working with Markdown
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+<img src="./img/logo.jpeg" width="140" style="border-radius: 90%;" />
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+# Northeirn Theme
 
-## For more information
+Northeirn is a soft theme for Visual Studio Code.
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+![preview-dark](./img/aurora-breeze.png)
 
-**Enjoy!**
+</div>
+
+## Installation
+
+1. Install theme from the [Marketplace](https://marketplace.visualstudio.com/items?itemName=murilonicemento.aurora-breeze)
+
+## License
+
+[MIT License](LICENSE)
