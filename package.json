@@ -3,6 +3,7 @@
   "displayName": "Northeirn",
   "description": "Northeirn is a soft theme for Visual Studio Code",
   "publisher": "murilonicemento",
+  "icon": "./img/logo.jpeg",
   "repository": {
     "type": "git",
     "url": "https://github.com/murilonicemento/aurora-theme.git"
