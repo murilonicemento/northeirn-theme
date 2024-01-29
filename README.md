@@ -13,7 +13,7 @@ Northeirn is a soft theme for Visual Studio Code.
 
 ## Installation
 
-1. Install theme from the [Marketplace](https://marketplace.visualstudio.com/items?itemName=murilonicemento.aurora-breeze)
+1. Install theme from the [Marketplace](https://marketplace.visualstudio.com/manage/publishers/murilonicemento/extensions/northeirn/hub)
 
 ## License
 
