@@ -1,14 +1,14 @@
 {
   "name": "northeirn",
   "displayName": "Northeirn",
-  "description": "Northeirn is a soft theme for Visual Studio Code",
+  "description": "Northeirn is a visually pleasing and soft theme for Visual Studio Code, carefully crafted with love and attention to detail.",
   "publisher": "murilonicemento",
   "icon": "img/logo.jpeg",
   "repository": {
     "type": "git",
     "url": "https://github.com/murilonicemento/northeirn-theme.git"
   },
-  "version": "0.0.4",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.85.0"
   },
